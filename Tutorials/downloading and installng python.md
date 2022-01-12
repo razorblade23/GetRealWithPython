@@ -1,4 +1,6 @@
-Depending on operating system you use there are diffrent options for downloading python.
+# Downloading and installing Python
+
+*Depending on operating system you use there are diffrent options for downloading python.*
 
 Installing or updating Python on your computer is the first step to becoming a Python programmer. 
 There are a multitude of installation methods: you can download official Python distributions from 
@@ -9,23 +11,23 @@ This tutorial focuses on official distributions, as they’re generally the best
 getting started with learning to program in Python.
 
 In this tutorial you’ll learn how to:
+* Check which version of Python, if any, is installed on your machine
+* Install or update Python on Windows, macOS, and Linux
+* Use Python on mobile devices like phones or tablets
+* Use Python on the Web with online interpreters
 
-    Check which version of Python, if any, is installed on your machine
-    Install or update Python on Windows, macOS, and Linux
-    Use Python on mobile devices like phones or tablets
-    Use Python on the Web with online interpreters
-
-No matter what operating system you’re on, this tutorial has you covered. Find your operating system below and dive in!
+*No matter what operating system you’re on, this tutorial has you covered. Find your operating system below and dive in!*
 
 ########################################################################################################
 
-How to Install Python on Windows
+## How to Install Python on Windows
 
 There are three installation methods on Windows:
+* The Microsoft Store
+* The full installer
+* Windows Subsystem for Linux
 
-    The Microsoft Store
-    The full installer
-    Windows Subsystem for Linux
+
 -----------------------------------------------------------------
 How to Check Your Python Version on Windows                     |
                                                                 |
@@ -41,7 +43,7 @@ type in the following command and press Enter:                  |
  '''                                                            |
 -----------------------------------------------------------------
 
-How to Install From the Full Installer
+### How to Install From the Full Installer
 
 For professional developers who need a full-featured Python development environment, installing from the full installer is the right choice. It offers more customization and control over the installation than installing from the Microsoft Store.
 
@@ -69,7 +71,7 @@ If you’re unsure which version to pick, go with the 64-bit version.
 If you have a 64-bit system and would like to switch from 64-bit Python to 32-bit (or vice versa), then you can just uninstall Python and then reinstall it by downloading the other installer from Python.org.
 
 When the installer is finished downloading, move on to the next step.
-Step 2: Run the Installer
+### Step 2: Run the Installer
 
 Once you’ve chosen and downloaded an installer, run it by double-clicking on the downloaded file. A dialog box like the one below will appear:
 Windows installation dialog
